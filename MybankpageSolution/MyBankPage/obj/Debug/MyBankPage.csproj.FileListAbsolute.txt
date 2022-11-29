@@ -1,0 +1,8 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\bin\Debug\MyBankPage.exe.config
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\bin\Debug\MyBankPage.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\bin\Debug\MyBankPage.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\obj\Debug\MyBankPage.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\obj\Debug\MyBankPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\obj\Debug\MyBankPage.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\obj\Debug\MyBankPage.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\MybankpageSolution\MyBankPage\obj\Debug\MyBankPage.pdb
