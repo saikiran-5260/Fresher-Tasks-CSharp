@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\bin\Debug\net6.0\ArraysSort.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\bin\Debug\net6.0\ArraysSort.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\bin\Debug\net6.0\ArraysSort.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\bin\Debug\net6.0\ArraysSort.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\bin\Debug\net6.0\ArraysSort.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\refint\ArraysSort.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ArraysSort.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ArraysSort\ArraysSort\obj\Debug\net6.0\ref\ArraysSort.dll
