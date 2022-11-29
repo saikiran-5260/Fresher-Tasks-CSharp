@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\bin\Debug\net6.0\Mylearning.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\bin\Debug\net6.0\Mylearning.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\bin\Debug\net6.0\Mylearning.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\bin\Debug\net6.0\Mylearning.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\bin\Debug\net6.0\Mylearning.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\refint\Mylearning.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\Mylearning.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Mylearning\Mylearning\obj\Debug\net6.0\ref\Mylearning.dll
