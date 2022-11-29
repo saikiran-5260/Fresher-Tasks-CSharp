@@ -1,0 +1,30 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\refint\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\ref\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\bin\Debug\net6.0\LocalFunctionsEx.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\refint\LocalFunctionsEx.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\LocalFunctionsEx.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\LocalFunctionsEx\LocalFunctionsEx\obj\Debug\net6.0\ref\LocalFunctionsEx.dll
