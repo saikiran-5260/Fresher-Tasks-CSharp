@@ -1,0 +1,11 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\bin\Debug\OopsProject.exe.config
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\bin\Debug\OopsProject.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\bin\Debug\OopsProject.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\bin\Debug\ClassLibrary1.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\bin\Debug\ClassLibrary1.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.CopyComplete
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\obj\Debug\OopsProject.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\OopsProject\OopsProject\obj\Debug\OopsProject.pdb
