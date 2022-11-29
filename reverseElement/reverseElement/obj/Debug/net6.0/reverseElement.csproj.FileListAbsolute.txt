@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\bin\Debug\net6.0\reverseElement.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\bin\Debug\net6.0\reverseElement.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\bin\Debug\net6.0\reverseElement.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\bin\Debug\net6.0\reverseElement.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\bin\Debug\net6.0\reverseElement.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\refint\reverseElement.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\reverseElement.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\reverseElement\reverseElement\obj\Debug\net6.0\ref\reverseElement.dll
