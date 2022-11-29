@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\bin\Debug\net6.0\Myfirstapplication.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\bin\Debug\net6.0\Myfirstapplication.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\bin\Debug\net6.0\Myfirstapplication.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\bin\Debug\net6.0\Myfirstapplication.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\bin\Debug\net6.0\Myfirstapplication.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\refint\Myfirstapplication.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\Myfirstapplication.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\Myfirstapplication\Myfirstapplication\obj\Debug\net6.0\ref\Myfirstapplication.dll
