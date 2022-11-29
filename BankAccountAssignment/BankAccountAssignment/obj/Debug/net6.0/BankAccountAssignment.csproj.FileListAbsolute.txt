@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\bin\Debug\net6.0\BankAccountAssignment.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\bin\Debug\net6.0\BankAccountAssignment.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\bin\Debug\net6.0\BankAccountAssignment.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\bin\Debug\net6.0\BankAccountAssignment.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\bin\Debug\net6.0\BankAccountAssignment.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\refint\BankAccountAssignment.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\BankAccountAssignment.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\BankAccountAssignment\BankAccountAssignment\obj\Debug\net6.0\ref\BankAccountAssignment.dll
