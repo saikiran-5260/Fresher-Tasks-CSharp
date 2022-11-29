@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\bin\Debug\net6.0\TwoDimenssionalArrExle.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\bin\Debug\net6.0\TwoDimenssionalArrExle.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\bin\Debug\net6.0\TwoDimenssionalArrExle.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\bin\Debug\net6.0\TwoDimenssionalArrExle.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\bin\Debug\net6.0\TwoDimenssionalArrExle.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\refint\TwoDimenssionalArrExle.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\TwoDimenssionalArrExle.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\TwoDimenssionalArrExle\TwoDimenssionalArrExle\obj\Debug\net6.0\ref\TwoDimenssionalArrExle.dll
