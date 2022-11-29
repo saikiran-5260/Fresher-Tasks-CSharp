@@ -1,0 +1,11 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\bin\Debug\ClassLibrary1.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\bin\Debug\ClassLibrary1.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CopyComplete
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
