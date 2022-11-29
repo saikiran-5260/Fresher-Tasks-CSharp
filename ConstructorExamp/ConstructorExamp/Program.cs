@@ -1,0 +1,23 @@
+﻿using ConstructorExamp;
+
+AccountDetails account = new AccountDetails();
+account.Display();
+Console.WriteLine("\t");
+AccountDetails account1 = new AccountDetails(100);
+account1.Display();
+Console.WriteLine("\t");
+AccountDetails account2 = new AccountDetails(101,1001);
+account2.Display();
+Console.WriteLine("\t");
+AccountDetails account3 = new AccountDetails(102, 1002,"Accion Labs");
+account3.Display();
+Console.WriteLine("\t");
+AccountDetails account4 = new AccountDetails(103, 1003, "Accion Labs ind pvt ltd",100008);
+account4.Display();
+Console.WriteLine("\t");
+AccountDetails account5 = new AccountDetails(104, 1004, "Accion Labs ind", 100008, "Hyderbad");
+account5.Display();
+Console.WriteLine("\t");
+AccountDetails account6 = new AccountDetails(account5);
+account6.Display();
+Console.WriteLine("\t");

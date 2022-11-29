@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\bin\Debug\net6.0\ConstructorExamp.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\bin\Debug\net6.0\ConstructorExamp.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\bin\Debug\net6.0\ConstructorExamp.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\bin\Debug\net6.0\ConstructorExamp.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\bin\Debug\net6.0\ConstructorExamp.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\refint\ConstructorExamp.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ConstructorExamp.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\ConstructorExamp\ConstructorExamp\obj\Debug\net6.0\ref\ConstructorExamp.dll
