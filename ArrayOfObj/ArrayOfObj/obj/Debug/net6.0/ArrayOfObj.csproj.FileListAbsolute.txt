@@ -1,0 +1,15 @@
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\bin\Debug\net6.0\ArrayOfObj.exe
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\bin\Debug\net6.0\ArrayOfObj.deps.json
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\bin\Debug\net6.0\ArrayOfObj.runtimeconfig.json
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\bin\Debug\net6.0\ArrayOfObj.dll
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\bin\Debug\net6.0\ArrayOfObj.pdb
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.csproj.AssemblyReference.cache
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.AssemblyInfoInputs.cache
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.AssemblyInfo.cs
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.csproj.CoreCompileInputs.cache
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.dll
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\refint\ArrayOfObj.dll
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.pdb
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ArrayOfObj.genruntimeconfig.cache
+C:\Users\al5260\source\repos\Fresher-Tasks-CSharp\ArrayOfObj\ArrayOfObj\obj\Debug\net6.0\ref\ArrayOfObj.dll
