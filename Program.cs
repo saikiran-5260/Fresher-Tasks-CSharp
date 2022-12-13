@@ -1,14 +1,35 @@
-﻿
+﻿using System.Collections;
+using CollectionOfObj;
 
-using TaskMethodOverLoading;
-using static TaskMethodOverLoading.AreaExmp;
 
-AreaExmp ae = new AreaExmp();
-ae.Area(6);
-ae.Area(5.6, 6);
-ae.Area(5, 6);
+List<Product> p = new List<Product>();
 
-PerimeterExmp pe = new PerimeterExmp();
-pe.Perimeter(5);
-pe.Perimeter(5, 6);
-pe.Perimeter(5, 6, 7);
+string choice = "";
+do
+{
+    Product product = new Product();
+    Console.Write("Enter product id: ");
+    product.productID = int.Parse(Console.ReadLine());
+
+    Console.Write("Enter product name: ");
+    product.productName = Console.ReadLine();
+
+    Console.Write("Price of product: ");
+    product.price = int.Parse(Console.ReadLine());
+
+    Console.Write("Please enter date of manufacture in yyyy-mm-dd: ");
+    product.dom = DateTime.Parse(Console.ReadLine());
+
+    p.Add(product);
+
+    Console.Write("Please enter your choice Yes/No : ");
+    choice = Console.ReadLine();
+    Console.WriteLine("\n");
+
+} while (choice != "No" && choice != "no" && choice != "n" && choice != "NO" && choice != "nO");
+
+
+foreach (Product item in p)
+{
+    Console.WriteLine(item.productID + " " + item.productName + " " + item.price + " " + item.dom.ToShortDateString());
+}
