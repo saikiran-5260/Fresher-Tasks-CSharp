@@ -4,14 +4,14 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace MVCCRUD.Controllers
+namespace EmployeeDB.Controllers
 {
     public class HomeController : Controller
     {
-        MVCCRUDBDcontext _context = new MVCCRUDBDcontext();
+        EmployeeDBcontext _context = new EmployeeDBcontext();
         public ActionResult Index()
         {
-            var listofData = _context.Tables.ToList();
+            var listofData = _context.Employees.ToList();
             return View(listofData);
         }
         [HttpGet]
@@ -20,47 +20,54 @@ namespace MVCCRUD.Controllers
             return View();
         }
         [HttpPost]
-        public ActionResult Create(Table model)
+        public ActionResult Create(Employee employee)
         {
-            _context.Tables.Add(model);
-            _context.SaveChanges();
-            ViewBag.Message = "Data Inserted successfully";
+            if(employee != null)
+            {
+                _context.Employees.Add(employee);
+                _context.SaveChanges();
+                ViewBag.Message = "Created successfully";
+                
+            }
             return View();
+
+
         }
         [HttpGet]
         public ActionResult Edit(int id)
         {
-            var data = _context.Tables.Where(x => x.Student_Id == id).FirstOrDefault();
+            var data = _context.Employees.Where(y=> y.Employee_Id== id).FirstOrDefault();
             return View(data);
+
         }
         [HttpPost]
-        public ActionResult Edit(Table Model)
+        public ActionResult Edit(Employee Employee)
         {
-            var data = _context.Tables.Where(x=> x.Student_Id == Model.Student_Id).FirstOrDefault();    
-            if(data != null)
+            var data = _context.Employees.Where(y => y.Employee_Id == Employee.Employee_Id).FirstOrDefault();
+            if(data!=null)
             {
-                data.Student_Name = Model.Student_Name;
-                data.Student_Fees = Model.Student_Fees;
-                data.Student_Location = Model.Student_Location;
+                data.Employee_name = Employee.Employee_name;
+                data.Employee_Location = Employee.Employee_Location;
+                data.Employee_MobileNum = Employee.Employee_MobileNum;
+                data.Employee_Designation = Employee.Employee_Designation;
                 _context.SaveChanges();
             }
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
-        [HttpGet]
         public ActionResult Details(int id)
         {
-            var data = _context.Tables.Where(x=> x.Student_Id == id).FirstOrDefault();
+            var data = _context.Employees.Where(y => y.Employee_Id == id).FirstOrDefault();
             return View(data);
         }
-      
         public ActionResult Delete(int id)
         {
-            var data = _context.Tables.Where(x => x.Student_Id == id).FirstOrDefault();
-            _context.Tables.Remove(data);
+            var data = _context.Employees.Where(x => x.Employee_Id == id).FirstOrDefault();
+            _context.Employees.Remove(data);
             _context.SaveChanges();
             ViewBag.Message = "Record deleted successfully";
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
 
+      
     }
 }
