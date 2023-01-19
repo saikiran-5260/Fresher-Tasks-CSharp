@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\bin\Debug\net6.0\InterfaceExamp.exe
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\bin\Debug\net6.0\InterfaceExamp.deps.json
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\bin\Debug\net6.0\InterfaceExamp.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\bin\Debug\net6.0\InterfaceExamp.dll
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\bin\Debug\net6.0\InterfaceExamp.pdb
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.dll
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\refint\InterfaceExamp.dll
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.pdb
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\InterfaceExamp.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET\InterfaceExamp\InterfaceExamp\obj\Debug\net6.0\ref\InterfaceExamp.dll
