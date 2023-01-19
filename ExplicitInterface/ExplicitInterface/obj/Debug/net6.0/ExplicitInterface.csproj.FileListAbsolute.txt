@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.exe
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.deps.json
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.dll
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.pdb
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.dll
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\refint\ExplicitInterface.dll
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.pdb
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET\ExplicitInterface\ExplicitInterface\obj\Debug\net6.0\ref\ExplicitInterface.dll
