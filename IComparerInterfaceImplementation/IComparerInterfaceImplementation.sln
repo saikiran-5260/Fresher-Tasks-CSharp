@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparerInterfaceImplementation", "IComparerInterfaceImplementation\IComparerInterfaceImplementation.csproj", "{722D5AF4-8EB1-49B7-A63F-6FFDB0A97D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722D5AF4-8EB1-49B7-A63F-6FFDB0A97D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D5AF4-8EB1-49B7-A63F-6FFDB0A97D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D5AF4-8EB1-49B7-A63F-6FFDB0A97D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D5AF4-8EB1-49B7-A63F-6FFDB0A97D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A21EF72-63CE-4FE5-A819-7F1D2D11651F}
+	EndGlobalSection
+EndGlobal
