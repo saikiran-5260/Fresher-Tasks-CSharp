@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\bin\Debug\net6.0\GenericListClass.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\bin\Debug\net6.0\GenericListClass.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\bin\Debug\net6.0\GenericListClass.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\bin\Debug\net6.0\GenericListClass.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\bin\Debug\net6.0\GenericListClass.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\refint\GenericListClass.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\GenericListClass.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\GenericListClass\GenericListClass\obj\Debug\net6.0\ref\GenericListClass.dll
