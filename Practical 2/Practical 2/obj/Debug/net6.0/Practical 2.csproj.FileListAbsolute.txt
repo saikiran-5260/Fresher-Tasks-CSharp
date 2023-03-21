@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\bin\Debug\net6.0\Practical 2.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\bin\Debug\net6.0\Practical 2.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\bin\Debug\net6.0\Practical 2.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\bin\Debug\net6.0\Practical 2.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\bin\Debug\net6.0\Practical 2.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\refint\Practical 2.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\Practical 2.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical 2\Practical 2\obj\Debug\net6.0\ref\Practical 2.dll
