@@ -1,0 +1,15 @@
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\bin\Debug\net6.0\Practical3.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\bin\Debug\net6.0\Practical3.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\bin\Debug\net6.0\Practical3.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\bin\Debug\net6.0\Practical3.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\bin\Debug\net6.0\Practical3.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\refint\Practical3.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\Practical3.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\Practical3\Practical3\obj\Debug\net6.0\ref\Practical3.dll
